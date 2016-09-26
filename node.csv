@@ -1,0 +1,564 @@
+id,label
+usage:EnqueteBeteiligung,EnqueteBeteiligung
+usage:Munich Open Government Day (MOGDy),Munich Open Government Day (MOGDy)
+usage:Tempelhofer-Feld,Tempelhofer-Feld
+usage:OffeneKommune,OffeneKommune
+tag:Debate,Debate
+tag:Liquid democracy,Liquid democracy
+usage:Urban Living,Urban Living
+tag:Debate,Debate
+tag:Liquid democracy,Liquid democracy
+usage:Ypart,Ypart
+tag:Debate,Debate
+tag:Liquid democracy,Liquid democracy
+usage:NoC - Publixphere,NoC - Publixphere
+tag:Debate,Debate
+tag:Liquid democracy,Liquid democracy
+usage:Publixphere,Publixphere
+tag:Debate,Debate
+tag:Liquid democracy,Liquid democracy
+usage:Appgree Podemos,Appgree Podemos
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+tag:Proposition,Proposition
+tag:Polling,Polling
+tag:Q&A,Q&A
+tag:Community organizing,Community organizing
+usage:Apgree Guanyem Barcelona,Apgree Guanyem Barcelona
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+tag:Proposition,Proposition
+tag:Polling,Polling
+tag:Q&A,Q&A
+tag:Community organizing,Community organizing
+usage:La relation des FranÃ§ais de l'Ã©tranger Ã  la France,La relation des FranÃ§ais de l'Ã©tranger Ã  la France
+tag:Consultation,Consultation
+tag:Public consultation,Public consultation
+tag:Debate,Debate
+"usage:Paris intelligente et durable, perspectives 2020 et au-delÃ ","Paris intelligente et durable, perspectives 2020 et au-delÃ "
+tag:Consultation,Consultation
+tag:Public consultation,Public consultation
+tag:Debate,Debate
+usage:Cities for Life,Cities for Life
+"usage:Loi travail : non, merci !","Loi travail : non, merci !"
+tag:Petition,Petition
+tag:Protest,Protest
+usage:Ready Reckoner,Ready Reckoner
+tag:Open parliament,Open parliament
+tag:Simulation,Simulation
+tag:Budget,Budget
+tag:Analysis,Analysis
+tag:Data,Data
+tag:Visualization,Visualization
+tag:Tax,Tax
+tag:Government revenue,Government revenue
+tag:Fiscal policy,Fiscal policy
+tag:Estimation,Estimation
+tag:Open government,Open government
+usage:City of Victoria's Budget Simulator,City of Victoria's Budget Simulator
+tag:Budget,Budget
+usage:data.gov.uk,data.gov.uk
+tag:Data management,Data management
+tag:Data,Data
+tag:Management,Management
+tag:Open data,Open data
+tag:Portal,Portal
+tag:Publishing,Publishing
+tag:Data management system (DMS),Data management system (DMS)
+tag:Data hub,Data hub
+tag:Storage,Storage
+tag:Dataset,Dataset
+usage:Data.gov,Data.gov
+tag:Data management,Data management
+tag:Data,Data
+tag:Management,Management
+tag:Open data,Open data
+tag:Portal,Portal
+tag:Publishing,Publishing
+tag:Data management system (DMS),Data management system (DMS)
+tag:Data hub,Data hub
+tag:Storage,Storage
+tag:Dataset,Dataset
+usage:European Data Portal,European Data Portal
+tag:Data management,Data management
+tag:Data,Data
+tag:Management,Management
+tag:Open data,Open data
+tag:Portal,Portal
+tag:Publishing,Publishing
+tag:Data management system (DMS),Data management system (DMS)
+tag:Data hub,Data hub
+tag:Storage,Storage
+tag:Dataset,Dataset
+usage:NosDonnÃ©es.fr,NosDonnÃ©es.fr
+tag:Data management,Data management
+tag:Data,Data
+tag:Management,Management
+tag:Open data,Open data
+tag:Portal,Portal
+tag:Publishing,Publishing
+tag:Data management system (DMS),Data management system (DMS)
+tag:Data hub,Data hub
+tag:Storage,Storage
+tag:Dataset,Dataset
+usage:Open Budget,Open Budget
+tag:Budget,Budget
+tag:Political program,Political program
+usage:Living Voters Guide,Living Voters Guide
+tag:Online forum,Online forum
+tag:Forum,Forum
+tag:argument,argument
+usage:Asteroid Initiative,Asteroid Initiative
+tag:Online forum,Online forum
+tag:Forum,Forum
+tag:Informing,Informing
+tag:Argument,Argument
+usage:The DAO - Consider.it,The DAO - Consider.it
+tag:Argument,Argument
+tag:Forum,Forum
+tag:Proposition,Proposition
+tag:Ideation,Ideation
+tag:Issues,Issues
+tag:Deliberation,Deliberation
+tag:Opinion,Opinion
+usage:Diem25 - Considerit,Diem25 - Considerit
+usage:Decide Madrid,Decide Madrid
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Decision making,Decision making
+tag:Collaborative,Collaborative
+tag:Participatory budget,Participatory budget
+usage:Plaza Podemos,Plaza Podemos
+tag:Participation,Participation
+tag:Proposition,Proposition
+tag:Debate,Debate
+usage:decidim.barcelona,decidim.barcelona
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Evaluation,Evaluation
+usage:consultaoviedo.es,consultaoviedo.es
+tag:Participation,Participation
+tag:Proposition,Proposition
+usage:NosDÃ©putÃ©s.fr,NosDÃ©putÃ©s.fr
+tag:Open data,Open data
+tag:Legislative,Legislative
+tag:Law-making,Law-making
+tag:Lower house,Lower house
+tag:National assembly,National assembly
+tag:Elected representatives,Elected representatives
+tag:Search,Search
+tag:Visualization,Visualization
+tag:Synthesis,Synthesis
+tag:Open parliament,Open parliament
+usage:NosSÃ©nateurs.fr,NosSÃ©nateurs.fr
+tag:Open data,Open data
+tag:Legislative,Legislative
+tag:Law-making,Law-making
+tag:Upper house,Upper house
+tag:Senate,Senate
+tag:Elected representatives,Elected representatives
+tag:Search,Search
+tag:Visualization,Visualization
+tag:Synthesis,Synthesis
+tag:Open parliament,Open parliament
+usage:La Fabrique de la Loi,La Fabrique de la Loi
+tag:Law-making,Law-making
+tag:Visualization,Visualization
+usage:Carte Nanterre Digital,Carte Nanterre Digital
+tag:Mapping,Mapping
+tag:Open Data,Open Data
+tag:Crowdsourcing,Crowdsourcing
+tag:Reporting,Reporting
+tag:Crowdmapping,Crowdmapping
+tag:Collaborative,Collaborative
+tag:Engagement,Engagement
+usage:Participez.nanterre.fr,Participez.nanterre.fr
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:Compte-rendu de mandat de la Maire de Paris,Compte-rendu de mandat de la Maire de Paris
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+tag:Public consultation,Public consultation
+usage:Partido de la Red,Partido de la Red
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:EuVoto,EuVoto
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:Loi Renseignement,Loi Renseignement
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:RÃ©forme des collÃ¨ges,RÃ©forme des collÃ¨ges
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:eVoks,eVoks
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:DemocracyOS Ukraine,DemocracyOS Ukraine
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:OpenCOP21,OpenCOP21
+tag:Debate,Debate
+tag:Voting,Voting
+tag:Participation,Participation
+tag:Engagement,Engagement
+usage:Le Programme des FranÃ§ais,Le Programme des FranÃ§ais
+tag:Decision making,Decision making
+tag:Citizen,Citizen
+tag:Proposition,Proposition
+tag:Engagement,Engagement
+tag:Co-construction,Co-construction
+tag:Program selection,Program selection
+tag:Political program,Political program
+tag:Program building,Program building
+tag:Real democracy,Real democracy
+tag:Citizen governance,Citizen governance
+tag:2017,2017
+tag:Elections,Elections
+usage:AcadÃ©mie de Montpellier,AcadÃ©mie de Montpellier
+usage:Forum #MaVoix,Forum #MaVoix
+usage:Open Knowledge Forums,Open Knowledge Forums
+usage:FixMyStreet Bruxelles,FixMyStreet Bruxelles
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:FixMyStreet Canada,FixMyStreet Canada
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:Chekikucha,Chekikucha
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:Questionnez vos candidats.org,Questionnez vos candidats.org
+usage:Questionnez vos Ã©lus.org,Questionnez vos Ã©lus.org
+usage:FixMyStreet NZ,FixMyStreet NZ
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+tag:Council,Council
+usage:Petitions - UK Government and Parliament,Petitions - UK Government and Parliament
+tag:Petition,Petition
+usage:FireChat - Umbrella Movement,FireChat - Umbrella Movement
+tag:Offline,Offline
+tag:Messaging,Messaging
+tag:Wireless,Wireless
+tag:Mesh networking,Mesh networking
+tag:Social networking,Social networking
+tag:Peer-to-peer,Peer-to-peer
+usage:Metro Manilla ShakeDrill,Metro Manilla ShakeDrill
+tag:Emergency,Emergency
+tag:Messaging,Messaging
+tag:Peer-to-peer,Peer-to-peer
+tag:Mesh networking,Mesh networking
+usage:FixMyStreet UK,FixMyStreet UK
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+tag:Council,Council
+usage:FixMyStreet Ireland,FixMyStreet Ireland
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+tag:Council,Council
+usage:AduanKu,AduanKu
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+tag:Council,Council
+usage:MakeMyIsland,MakeMyIsland
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:FiksGataMi,FiksGataMi
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:FixaMinGata,FixaMinGata
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:ZÃ¼ri wie neu,ZÃ¼ri wie neu
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:FixMyCommunity,FixMyCommunity
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:Por Mi Barrio,Por Mi Barrio
+tag:Issue reporting,Issue reporting
+tag:Mapping,Mapping
+tag:Reporting,Reporting
+tag:Crowdsourcing,Crowdsourcing
+tag:Public services,Public services
+tag:Local,Local
+tag:Issues,Issues
+tag:Street,Street
+usage:La Carte de #MaVoix,La Carte de #MaVoix
+tag:Mapping,Mapping
+tag:Crowdsourcing,Crowdsourcing
+tag:Collaborative,Collaborative
+tag:Visualization,Visualization
+tag:Data,Data
+tag:Crowdmapping,Crowdmapping
+tag:Online service,Online service
+tag:Map,Map
+usage:Carte des Nuits debout,Carte des Nuits debout
+tag:Mapping,Mapping
+tag:Crowdsourcing,Crowdsourcing
+tag:Collaborative,Collaborative
+tag:Visualization,Visualization
+tag:Data,Data
+tag:Crowdmapping,Crowdmapping
+tag:Online service,Online service
+tag:Map,Map
+usage:Global debout,Global debout
+tag:Mapping,Mapping
+tag:Crowdsourcing,Crowdsourcing
+tag:Collaborative,Collaborative
+tag:Visualization,Visualization
+tag:Data,Data
+tag:Crowdmapping,Crowdmapping
+tag:Online service,Online service
+tag:Map,Map
+usage:Get Opinionated,Get Opinionated
+usage:Loomio #MaVoix,Loomio #MaVoix
+tag:Ideation,Ideation
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+usage:Loomio Parti pirate,Loomio Parti pirate
+tag:Ideation,Ideation
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+usage:Loomio Nuit debout,Loomio Nuit debout
+tag:Ideation,Ideation
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+usage:Loomio Podemos,Loomio Podemos
+tag:Ideation,Ideation
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+usage:Loomio g0v.tw,Loomio g0v.tw
+tag:Ideation,Ideation
+tag:Participation,Participation
+tag:Debate,Debate
+tag:Proposition,Proposition
+tag:Voting,Voting
+tag:Decision-making,Decision-making
+usage:Wiki #MaVoix,Wiki #MaVoix
+usage:Mumble Nuit debout,Mumble Nuit debout
+usage:Mumble Parti pirate,Mumble Parti pirate
+usage:Open Data Index,Open Data Index
+tag:Open data,Open data
+tag:Survey,Survey
+tag:Visualization,Visualization
+tag:Benchmark,Benchmark
+tag:Insight,Insight
+tag:Comparison,Comparison
+usage:OGP Summit website,OGP Summit website
+tag:Event,Event
+tag:Planning,Planning
+usage:OpenSpending,OpenSpending
+tag:Information,Information
+tag:Map,Map
+tag:Open data,Open data
+tag:Public reporting,Public reporting
+tag:Watchdogging and Transparency,Watchdogging and Transparency
+tag:Budget,Budget
+tag:Public finance,Public finance
+tag:Analysis,Analysis
+tag:Spending,Spending
+tag:Fiscal,Fiscal
+tag:Visualization,Visualization
+usage:We The People,We The People
+tag:Petition,Petition
+tag:Engagement,Engagement
+tag:Voting,Voting
+usage:E-Petitions,E-Petitions
+tag:Public dialogue,Public dialogue
+tag:Petition,Petition
+usage:Forum du Parti Pirate,Forum du Parti Pirate
+tag:Forum,Forum
+usage:Parlement & Citoyens,Parlement & Citoyens
+usage:Projet de loi pour une rÃ©publique numÃ©rique,Projet de loi pour une rÃ©publique numÃ©rique
+usage:StratÃ©gie numÃ©rique de l'AFD,StratÃ©gie numÃ©rique de l'AFD
+usage:Kuvakazim,Kuvakazim
+usage:Mzalendo,Mzalendo
+tag:Open parliament,Open parliament
+tag:Open government,Open government
+tag:Participation,Participation
+tag:Parliament,Parliament
+tag:Lawmaking,Lawmaking
+tag:Transparency,Transparency
+usage:Odekro,Odekro
+usage:People's Assembly,People's Assembly
+usage:Shine Your Eye,Shine Your Eye
+usage:Questions.nuitdebout.fr,Questions.nuitdebout.fr
+usage:Podemos subreddit,Podemos subreddit
+tag:Forum,Forum
+tag:Debate,Debate
+tag:Vote,Vote
+usage:Redmine Parti Pirate,Redmine Parti Pirate
+usage:ANCFinder.org,ANCFinder.org
+usage:GovTrack.us,GovTrack.us
+usage:OpenStates.org,OpenStates.org
+usage:Represent Canada,Represent Canada
+usage:Chat Nuit debout,Chat Nuit debout
+usage:Slack #MaVoix,Slack #MaVoix
+tag:Chat,Chat
+tag:Discussion,Discussion
+usage:Slack g0v,Slack g0v
+tag:Chat,Chat
+tag:Discussion,Discussion
+usage:KildareStreet.com,KildareStreet.com
+tag:Open parliament,Open parliament
+tag:Open government,Open government
+tag:Participation,Participation
+tag:Parliament,Parliament
+tag:Lawmaking,Lawmaking
+tag:Transparency,Transparency
+tag:Watching,Watching
+usage:TheyWorkForYou UK,TheyWorkForYou UK
+tag:Open parliament,Open parliament
+tag:Open government,Open government
+tag:Participation,Participation
+tag:Parliament,Parliament
+tag:Lawmaking,Lawmaking
+tag:Transparency,Transparency
+tag:Watching,Watching
+usage:Trello Podemos,Trello Podemos
+tag:Management,Management
+tag:Archive,Archive
+usage:Data.gouv.fr,Data.gouv.fr
+usage:Mapping the damages in Fiji after cyclone Winston,Mapping the damages in Fiji after cyclone Winston
+usage:Site Ma Voix,Site Ma Voix
+tag:Timeline,Timeline
+usage:data.senat.fr,data.senat.fr
+usage:Better Reykjavik,Better Reykjavik
+tag:Forum,Forum
+tag:Consultation,Consultation
+tag:Issues,Issues
+tag:Public services,Public services
+tag:Participation,Participation
+tag:Propositions,Propositions
+tag:Budgeting,Budgeting
+tag:Survey,Survey
+tag:Voting,Voting
+usage:Adopt-a-Drain San Francisco,Adopt-a-Drain San Francisco
+tag:Reporting,Reporting
+tag:Public service,Public service
+tag:Issues,Issues
+usage:Adopt-a-Drain Oakland,Adopt-a-Drain Oakland
+tag:Reporting,Reporting
+tag:Public service,Public service
+tag:Issues,Issues
+usage:Adopt-a-Drain Seattle,Adopt-a-Drain Seattle
+tag:Reporting,Reporting
+tag:Public service,Public service
+tag:Issues,Issues
+usage:Adopt-a-Drain Fort Worth,Adopt-a-Drain Fort Worth
+tag:Reporting,Reporting
+tag:Public service,Public service
+tag:Issues,Issues
+usage:Adopt-a-Hydrant Boston,Adopt-a-Hydrant Boston
+tag:Reporting,Reporting
+tag:Public service,Public service
+tag:Issues,Issues
+usage:faire-simple.gouv.fr,faire-simple.gouv.fr
+tag:Proposition,Proposition
+tag:Ideation,Ideation
+tag:Discussion,Discussion
+tag:Q&A,Q&A
+tag:Reporting,Reporting
+tag:Progress tracking,Progress tracking
